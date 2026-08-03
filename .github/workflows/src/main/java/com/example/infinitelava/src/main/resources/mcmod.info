@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "infinitelava",
+    "name": "Infinite Lava",
+    "description": "让岩浆像水一样：2x2 摆放即可无限生成岩浆源。",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": ["user"],
+    "credits": "",
+    "url": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
